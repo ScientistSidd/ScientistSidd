@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Siddhant</h1>
 <h3 align="center">A passionate Developer who is always willing to pursue creative endeavors.</h3>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 300bb09b817722a79b867eac5fafc7b54e37ccd4
 - 🌱 I’m currently learning **Flutter , ARCore**
 
 - 💬 Ask me about **Android Dev**
